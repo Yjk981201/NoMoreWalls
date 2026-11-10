@@ -75,3 +75,18 @@ proxies:
     headers:
       Host: speedtest.danfengno1.kdns.fr
     path: /danfeng-public-ng3zjr-qba1sq-5pqc-59s5q5st
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: 🇸🇬SG_1|3.5MB/s
+  network: tcp
+  port: '46105'
+  reality-opts:
+    public-key: Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik
+    short-id: '!!str 28f5c1f8f98a'
+  server: zfapi.zalolink.com
+  servername: www.lamer.com.sg
+  tls: true
+  type: vless
+  udp: true
+  uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  xudp: true
